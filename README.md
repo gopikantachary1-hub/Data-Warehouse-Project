@@ -52,3 +52,9 @@ Product Lifecycle: Evaluating performance metrics and inventory success.
 Market Velocity: Visualizing sales trends to forecast future performance.
 
 For a granular breakdown of technical specifications, please consult the docs/requirements.md file.
+
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
